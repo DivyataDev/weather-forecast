@@ -25,3 +25,4 @@ This website provide ability for website users to look up 7 day weather forecast
   ![alt text](<Screenshot 2024-05-06 135408.png>)
  
   
+Project for : Build a Website using an API with HTML, JavaScript, and JSON :  https://www.coursera.org/learn/showcase-build-a-website-api-html-javascript-json/ 

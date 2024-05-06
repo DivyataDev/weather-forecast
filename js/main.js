@@ -23,7 +23,7 @@ $(document).ready(function() {
                 const weatherStatus = getWeatherTypeTranslation(forecast.weather)
                 const weatherEmoji = getWeatherTypeEmojis(forecast.weather)
 
-                $(".row").append(`<div class="col-sm-3 col-lg  weather-col card overflow-hidden  text-bg-dark d-flex flex-column  align-items-center p-2 pt-3">
+                $(".row").append(`<div class="col-sm-5 col-lg  weather-col card overflow-hidden  text-bg-dark d-flex flex-column  align-items-center p-2 pt-3">
                 <h5 class="day-title">${currentDay}</h5>
                 <ul  class="d-flex flex-column  list-unstyled mt-auto  align-items-center p-2">
                     <li class="fs-1 pb-2" >

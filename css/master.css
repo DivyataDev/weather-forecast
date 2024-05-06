@@ -27,7 +27,10 @@ footer {
 .weather-col {
     background-color: white !important;
     color: #171a22 !important;
+    
 }
+
+
 
 .card-row {
     display: flex;
@@ -47,4 +50,8 @@ footer {
 
 .a-link {
     color: #fc0 !important;
+}
+.weather-col:hover {
+    border: 1px solid #fc0 !important; 
+   
 }

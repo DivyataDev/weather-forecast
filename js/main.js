@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    const timer7url = "http://www.7timer.info/bin/api.pl"
+    const timer7url = "https://www.7timer.info/bin/api.pl"
     $("#country").change(function() {
         var selectedValue = $(this).val();
         const coordinates = JSON.parse(selectedValue);
